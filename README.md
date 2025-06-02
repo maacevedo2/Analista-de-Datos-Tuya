@@ -1,4 +1,5 @@
 # Analista-de-Datos-Tuya
+Solución prueba técnica Analista de Datos – Tuya
 
 ## Contenido 
 - Fase 1 (SQL): `Respuesta FASE 1.sql` 
